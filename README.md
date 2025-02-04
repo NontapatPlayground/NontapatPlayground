@@ -6,9 +6,8 @@ You can call me by my nickname "mark"
 
 I've start learning coding for 5-6 year now, my favorite language is c++,and html
 
-* ✉️  You can contact me at [nontapatngajuer@gmail.com](mailto:nontapatngajuer@gmail.com)
-* 🧠  I'm learning a new language (not only coding language but the conversation )
-* ⚡  I keep learning all the time. and try to make myself better in every way possible
+* - I'm learning a new language (not only coding language but the conversation )
+* - I keep learning all the time. and try to make myself better in every way possible
 
 ### Skills
 
