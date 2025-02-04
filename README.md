@@ -1,7 +1,7 @@
-Hi ![]My name is Mark
+Hi!! My name is Nontapat Ngajuer
 ============================================================================================================================
 
-(Nontapat Ngajuer)
+You can call me by my nickname "mark"
 ------------------
 
 I've start learning coding for 5-6 year now, my faverite language is c++,and html
