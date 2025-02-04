@@ -4,10 +4,10 @@ Hi!! My name is Nontapat Ngajuer
 You can call me by my nickname "mark"
 ------------------
 
-I've start learning coding for 5-6 year now, my favorite language is c++,and html
+I've start learning coding for 5-6 year now, my favorite language is c++ and html
 
 * I'm learning a new language (not only coding language but the conversation )
-* I keep learning all the time. and try to make myself better in every way possible
+* I keep learning all the time, and try to make myself better in every way possible
 
 ### Skills
 
