@@ -1,4 +1,11 @@
-<img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">.......... cool wataten header
+<img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
+<div style="text-align:center;">
+  .......... cool wataten header
+</div>
+
+<!-- Your main content here -->
+
+
 
 -----------------------------------------------------------------------------------------------------
 
@@ -19,6 +26,9 @@ Believes that silly little Artificial Intelligences Things will cure humanity on
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">.......... and cool wataten footer
+<img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
+<div style="text-align:center;">
+  .......... and cool wataten footer
+</div>
 
 
