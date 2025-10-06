@@ -1,6 +1,7 @@
-Mark0nE (21,and getting older [help😢])
+Mark0nE (21, and getting older [help 😢])
 ----------------------------------------------------------------------
-Front-end (React,CSS) and a bit of Back-end*byforcing (Javascript,php)
+Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP)
 
-Still looking for side-project (in-progress) 
-n get good at coding soon 🏗️
+Still looking for a side project (in progress)
+
+Believes that these silly little Artificial Intelligences will cure humanity one day.
