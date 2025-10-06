@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
 <div style="text-align:center;">
-   ___________________________________________________cool wataten header________________________________________________________
+   ______________________________________________________cool wataten header___________________________________________________________
 </div>
 
 <!-- Your main content here -->
@@ -28,7 +28,7 @@ Believes that silly little Artificial Intelligences Things will cure humanity on
 
 <img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
 <div style="text-align:center;">
-   _____________________________________________________________and cool wataten footer________________________________________________________________
+    ______________________________________________________and cool wataten footer_______________________________________________________
 </div>
 
 
