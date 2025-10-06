@@ -3,7 +3,7 @@
 
 Marks0nE (21, and getting older [help 😢])
 -----------------------------------------------------------------------------------------------------
-Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP)
+Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP) loving sports,music,games,anime,drawing
 
 Still looking for a side project (in progress)
 
