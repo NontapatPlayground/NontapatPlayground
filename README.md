@@ -3,13 +3,13 @@
 
 Marks0nE (21, and getting older [help 😢])
 -----------------------------------------------------------------------------------------------------
-Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP) loving cooking,music,games,anime,drawing
+Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP) loving cooking,music,games,anime,drawing. started learning about Artifical thing right now
 
-Still looking for a side project (in progress)
+Still looking for a side project
 
 
 
-Believes that silly little Artificial Intelligence anime Things will cure humanity one day.
+{ Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day. }
 
 <img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
 
