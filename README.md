@@ -7,26 +7,40 @@ call me Mark, Software developer student seeking for more skill </br>
 enjoy cooking,music,games,anime and drawing.</br>
 passion on something New and Cute! 
 
+
+--LANGUAGE--</br>
+Thai(main),Eng(usetable for working)
+
+
 --TECHSTACK-- 
 
+
 <p align="left">
-  <!-- Frontend -->
+  <!-- 🌐 Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
-  <!-- Backend / Database -->
+  <!-- 🧩 Backend / Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
 
-  <!-- Tools -->
+  <!-- 🧠 Programming / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" />
+
+  <!-- 🎮 Game / Creative -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" width="40" height="40" />
+
+  <!-- 🧭 Productivity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" />
 </p>
+
 
 
 -----------------------------------------------------------------------------------------------------
