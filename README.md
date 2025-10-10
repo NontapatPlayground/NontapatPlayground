@@ -10,7 +10,7 @@ passion on something New and Cute!
 
 --LANGUAGE--</br>
 
-Thai(main),Eng(usetable for working)
+Thai(fluent),Eng(usetable for working)
 
 
 --TECHSTACK-- 
@@ -45,10 +45,17 @@ Thai(main),Eng(usetable for working)
 </p>
 
 
-
 -----------------------------------------------------------------------------------------------------
 
-I started Interest About AI for now. I Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day -w-. <img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
+I started Interest About AI for now. I Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day -w-. 
+
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/MeoFWw-08c8AAAAd/persona-persona-3.gif"
+       alt="Aigis Persona 3"
+       width="320">
+</p>
+
 
 
 
