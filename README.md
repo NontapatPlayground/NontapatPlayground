@@ -3,22 +3,35 @@
 
 Marks0nE (21, and getting older [help 😢])
 -----------------------------------------------------------------------------------------------------
-Front-End (React, CSS) and a bit of Back-End *by forcing* (JavaScript, PHP) loving cooking,music,games,anime,drawing. started learning about Artifical thing right now
+call me Mark, Software developer student seeking for more skill </br>
+enjoy cooking,music,games,anime and drawing.</br>
+passion on something New and Cute! 
 
-Still looking for a side project
+--TECHSTACK-- 
 
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
+  <!-- Backend / Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
 
-{ Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day. }
-
-<img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100"><img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40" />
+</p>
 
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="https://64.media.tumblr.com/7ececbd327958fb4838ada54ca9beffe/0f43b55d66a51664-64/s500x750/365c3dd89e44128bc33ae2dbe62a1711ce412ede.gifv" width="400">
-
-{ Me when, 'Why did you choose to be a dev?' Question }
+I started Interest About AI for now. I Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day -w-. <img src="https://media.tenor.com/MR7k-TyLM7wAAAAj/zebnat-dizzy.gif" width="100">
 
 
 
