@@ -49,6 +49,9 @@ Thai(fluent),Eng(usetable for working)
 
 I started Interest About AI for now. I Believes that silly little Artificial Intelligence ANIME Things will cure humanity one day -w-. 
 
+</br>
+</br>
+
 
 <p align="center">
   <img src="https://media1.tenor.com/m/MeoFWw-08c8AAAAd/persona-persona-3.gif"
