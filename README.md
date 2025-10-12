@@ -7,9 +7,10 @@ call me Mark, Software developer student seeking for more skill </br>
 enjoy cooking,music,games,anime and drawing.</br>
 passion on something New and Cute! 
 
+--STATUS--</br>
+bachelor of information technology, undergraduate (last year)
 
 --LANGUAGE--</br>
-
 Thai(fluent),Eng(usetable for working)
 
 
